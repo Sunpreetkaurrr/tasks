@@ -1,7 +1,0 @@
-[]
-[
-    {
-        "InstanceId": "i-0b252b561d45a7d96",
-        "PublicIpAddress": "13.127.104.235"
-    }
-]
